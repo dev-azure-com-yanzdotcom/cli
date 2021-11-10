@@ -1,3 +1,5 @@
+[gh_2.2.0_checksums.txt](https://github.com/dev-azure-com-yanzdotcom/cli/files/7515033/gh_2.2.0_checksums.txt)
+[starter-workflows-ed5cb0096e70c082ac4b02ed25d3fc8b24a41525.zip](https://github.com/dev-azure-com-yanzdotcom/cli/files/7515035/starter-workflows-ed5cb0096e70c082ac4b02ed25d3fc8b24a41525.zip)
 # GitHub CLI
 
 `gh` is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with `git` and your code.
@@ -105,7 +107,7 @@ tool. Check out our [more detailed explanation][gh-vs-hub] to learn more.
 [scoop]: https://scoop.sh
 [Chocolatey]: https://chocolatey.org
 [Conda]: https://docs.conda.io/en/latest/
-[Spack]: https://spack.io
+[Spack]: https://spack.iohttps://github.com/cli/cli/projects/1#column-7171811https://github.com/cli/cli/projects/1#card-56142989https://github.com/cli/cli/projects/1#card-49043843https://github.com/cli/cli/projects/1#card-48063304https://github.com/cli/cli/projects/1#card-48326817
 [releases page]: https://github.com/cli/cli/releases/latest
 [hub]: https://github.com/github/hub
 [contributing]: ./.github/CONTRIBUTING.md
